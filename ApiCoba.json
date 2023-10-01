@@ -1,0 +1,804 @@
+{
+  "dataUser":[
+   {
+    "Id": 1,
+    "Nama": "Mary Johnson",
+    "Email": "mary.johnson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/1.jpg",
+    "Followers": 356789,
+    "Following": 123
+   },
+   {
+    "Id": 2,
+    "Nama": "John Smith",
+    "Email": "john.smith@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/2.jpg",
+    "Followers": 540123,
+    "Following": 547
+   },
+   {
+    "Id": 3,
+    "Nama": "Lisa Williams",
+    "Email": "lisa.williams@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/3.jpg",
+    "Followers": 923456,
+    "Following": 890
+   },
+   {
+    "Id": 4,
+    "Nama": "David Brown",
+    "Email": "david.brown@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/4.jpg",
+    "Followers": 124567,
+    "Following": 456
+   },
+   {
+    "Id": 5,
+    "Nama": "Sarah Davis",
+    "Email": "sarah.davis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/5.jpg",
+    "Followers": 789012,
+    "Following": 234
+   },
+   {
+    "Id": 6,
+    "Nama": "James Wilson",
+    "Email": "james.wilson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/6.jpg",
+    "Followers": 234567,
+    "Following": 678
+   },
+   {
+    "Id": 7,
+    "Nama": "Patricia Anderson",
+    "Email": "patricia.anderson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/7.jpg",
+    "Followers": 657890,
+    "Following": 321
+   },
+   {
+    "Id": 8,
+    "Nama": "Robert Martinez",
+    "Email": "robert.martinez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/8.jpg",
+    "Followers": 890123,
+    "Following": 789
+   },
+   {
+    "Id": 9,
+    "Nama": "Jennifer Taylor",
+    "Email": "jennifer.taylor@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/9.jpg",
+    "Followers": 432109,
+    "Following": 567
+   },
+   {
+    "Id": 10,
+    "Nama": "Michael Clark",
+    "Email": "michael.clark@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/10.jpg",
+    "Followers": 765432,
+    "Following": 432
+   },
+   {
+    "Id": 11,
+    "Nama": "Linda Lee",
+    "Email": "linda.lee@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/11.jpg",
+    "Followers": 321098,
+    "Following": 876
+   },
+   {
+    "Id": 12,
+    "Nama": "William White",
+    "Email": "william.white@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/12.jpg",
+    "Followers": 567890,
+    "Following": 654
+   },
+   {
+    "Id": 13,
+    "Nama": "Karen Rodriguez",
+    "Email": "karen.rodriguez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/13.jpg",
+    "Followers": 987654,
+    "Following": 109
+   },
+   {
+    "Id": 14,
+    "Nama": "Richard Thomas",
+    "Email": "richard.thomas@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/14.jpg",
+    "Followers": 876543,
+    "Following": 345
+   },
+   {
+    "Id": 15,
+    "Nama": "Susan Harris",
+    "Email": "susan.harris@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/15.jpg",
+    "Followers": 234567,
+    "Following": 987
+   },
+   {
+    "Id": 16,
+    "Nama": "Charles Jackson",
+    "Email": "charles.jackson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/16.jpg",
+    "Followers": 543210,
+    "Following": 210
+   },
+   {
+    "Id": 17,
+    "Nama": "Nancy Garcia",
+    "Email": "nancy.garcia@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/17.jpg",
+    "Followers": 789012,
+    "Following": 876
+   },
+   {
+    "Id": 18,
+    "Nama": "Joseph Anderson",
+    "Email": "joseph.anderson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/18.jpg",
+    "Followers": 345678,
+    "Following": 543
+   },
+   {
+    "Id": 19,
+    "Nama": "Margaret Miller",
+    "Email": "margaret.miller@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/19.jpg",
+    "Followers": 678901,
+    "Following": 890
+   },
+   {
+    "Id": 20,
+    "Nama": "Daniel Wilson",
+    "Email": "daniel.wilson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/20.jpg",
+    "Followers": 109876,
+    "Following": 456
+   },
+   {
+    "Id": 21,
+    "Nama": "Elizabeth Taylor",
+    "Email": "elizabeth.taylor@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/21.jpg",
+    "Followers": 876543,
+    "Following": 123
+   },
+   {
+    "Id": 22,
+    "Nama": "Thomas Hernandez",
+    "Email": "thomas.hernandez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/22.jpg",
+    "Followers": 432109,
+    "Following": 789
+   },
+   {
+    "Id": 23,
+    "Nama": "Sandra Moore",
+    "Email": "sandra.moore@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/23.jpg",
+    "Followers": 765432,
+    "Following": 567
+   },
+   {
+    "Id": 24,
+    "Nama": "Christopher Davis",
+    "Email": "christopher.davis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/24.jpg",
+    "Followers": 234567,
+    "Following": 234
+   },
+   {
+    "Id": 25,
+    "Nama": "Jessica Martinez",
+    "Email": "jessica.martinez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/25.jpg",
+    "Followers": 789012,
+    "Following": 678
+   },
+   {
+    "Id": 26,
+    "Nama": "Matthew Johnson",
+    "Email": "matthew.johnson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/26.jpg",
+    "Followers": 321098,
+    "Following": 321
+   },
+   {
+    "Id": 27,
+    "Nama": "Maria Perez",
+    "Email": "maria.perez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/27.jpg",
+    "Followers": 567890,
+    "Following": 654
+   },
+   {
+    "Id": 28,
+    "Nama": "David Robinson",
+    "Email": "david.robinson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/28.jpg",
+    "Followers": 987654,
+    "Following": 987
+   },
+   {
+    "Id": 29,
+    "Nama": "Patricia Lewis",
+    "Email": "patricia.lewis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/29.jpg",
+    "Followers": 890123,
+    "Following": 109
+   },
+   {
+    "Id": 30,
+    "Nama": "Brian Wilson",
+    "Email": "brian.wilson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/30.jpg",
+    "Followers": 654321,
+    "Following": 345
+   },
+   {
+    "Id": 31,
+    "Nama": "Laura Hall",
+    "Email": "laura.hall@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/31.jpg",
+    "Followers": 109876,
+    "Following": 432
+   },
+   {
+    "Id": 32,
+    "Nama": "John Turner",
+    "Email": "john.turner@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/32.jpg",
+    "Followers": 345678,
+    "Following": 567
+   },
+   {
+    "Id": 33,
+    "Nama": "Cynthia Scott",
+    "Email": "cynthia.scott@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/33.jpg",
+    "Followers": 567890,
+    "Following": 876
+   },
+   {
+    "Id": 34,
+    "Nama": "Ronald Gonzalez",
+    "Email": "ronald.gonzalez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/34.jpg",
+    "Followers": 432109,
+    "Following": 234
+   },
+   {
+    "Id": 35,
+    "Nama": "Donna King",
+    "Email": "donna.king@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/35.jpg",
+    "Followers": 876543,
+    "Following": 321
+   },
+   {
+    "Id": 36,
+    "Nama": "Kenneth Mitchell",
+    "Email": "kenneth.mitchell@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/36.jpg",
+    "Followers": 234567,
+    "Following": 890
+   },
+   {
+    "Id": 37,
+    "Nama": "Carol Wright",
+    "Email": "carol.wright@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/37.jpg",
+    "Followers": 789012,
+    "Following": 456
+   },
+   {
+    "Id": 38,
+    "Nama": "Steven Adams",
+    "Email": "steven.adams@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/38.jpg",
+    "Followers": 654321,
+    "Following": 678
+   },
+   {
+    "Id": 39,
+    "Nama": "Dorothy Carter",
+    "Email": "dorothy.carter@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/39.jpg",
+    "Followers": 321098,
+    "Following": 109
+   },
+   {
+    "Id": 40,
+    "Nama": "Mark Brown",
+    "Email": "mark.brown@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/40.jpg",
+    "Followers": 789012,
+    "Following": 987
+   },
+   {
+    "Id": 41,
+    "Nama": "Angela Walker",
+    "Email": "angela.walker@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/41.jpg",
+    "Followers": 890123,
+    "Following": 543
+   },
+   {
+    "Id": 42,
+    "Nama": "Paul Green",
+    "Email": "paul.green@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/42.jpg",
+    "Followers": 234567,
+    "Following": 321
+   },
+   {
+    "Id": 43,
+    "Nama": "Kimberly Hall",
+    "Email": "kimberly.hall@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/43.jpg",
+    "Followers": 567890,
+    "Following": 234
+   },
+   {
+    "Id": 44,
+    "Nama": "Edward Baker",
+    "Email": "edward.baker@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/44.jpg",
+    "Followers": 987654,
+    "Following": 456
+   },
+   {
+    "Id": 45,
+    "Nama": "Donna Rodriguez",
+    "Email": "donna.rodriguez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/45.jpg",
+    "Followers": 765432,
+    "Following": 789
+   },
+   {
+    "Id": 46,
+    "Nama": "Jerry Hall",
+    "Email": "jerry.hall@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/46.jpg",
+    "Followers": 432109,
+    "Following": 876
+   },
+   {
+    "Id": 47,
+    "Nama": "Sharon Mitchell",
+    "Email": "sharon.mitchell@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/47.jpg",
+    "Followers": 109876,
+    "Following": 678
+   },
+   {
+    "Id": 48,
+    "Nama": "Jeffrey Wright",
+    "Email": "jeffrey.wright@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/48.jpg",
+    "Followers": 345678,
+    "Following": 210
+   },
+   {
+    "Id": 49,
+    "Nama": "Amanda Thomas",
+    "Email": "amanda.thomas@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/49.jpg",
+    "Followers": 876543,
+    "Following": 987
+   },
+   {
+    "Id": 50,
+    "Nama": "Larry Lewis",
+    "Email": "larry.lewis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/50.jpg",
+    "Followers": 890123,
+    "Following": 345
+   },
+   {
+    "Id": 51,
+    "Nama": "Amy Moore",
+    "Email": "amy.moore@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/51.jpg",
+    "Followers": 234567,
+    "Following": 123
+   },
+   {
+    "Id": 52,
+    "Nama": "Frank Martinez",
+    "Email": "frank.martinez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/52.jpg",
+    "Followers": 321098,
+    "Following": 567
+   },
+   {
+    "Id": 53,
+    "Nama": "Pamela Davis",
+    "Email": "pamela.davis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/53.jpg",
+    "Followers": 567890,
+    "Following": 890
+   },
+   {
+    "Id": 54,
+    "Nama": "Timothy Anderson",
+    "Email": "timothy.anderson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/54.jpg",
+    "Followers": 876543,
+    "Following": 432
+   },
+   {
+    "Id": 55,
+    "Nama": "Deborah Wilson",
+    "Email": "deborah.wilson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/55.jpg",
+    "Followers": 987654,
+    "Following": 654
+   },
+   {
+    "Id": 56,
+    "Nama": "Steven White",
+    "Email": "steven.white@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/56.jpg",
+    "Followers": 109876,
+    "Following": 109
+   },
+   {
+    "Id": 57,
+    "Nama": "Ruth Hernandez",
+    "Email": "ruth.hernandez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/57.jpg",
+    "Followers": 654321,
+    "Following": 876
+   },
+   {
+    "Id": 58,
+    "Nama": "Joshua Taylor",
+    "Email": "joshua.taylor@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/58.jpg",
+    "Followers": 765432,
+    "Following": 321
+   },
+   {
+    "Id": 59,
+    "Nama": "Carolyn Davis",
+    "Email": "carolyn.davis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/59.jpg",
+    "Followers": 345678,
+    "Following": 345
+   },
+   {
+    "Id": 60,
+    "Nama": "Kevin Johnson",
+    "Email": "kevin.johnson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/60.jpg",
+    "Followers": 890123,
+    "Following": 234
+   },
+   {
+    "Id": 61,
+    "Nama": "Michelle Wilson",
+    "Email": "michelle.wilson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/61.jpg",
+    "Followers": 432109,
+    "Following": 987
+   },
+   {
+    "Id": 62,
+    "Nama": "Gregory Scott",
+    "Email": "gregory.scott@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/62.jpg",
+    "Followers": 234567,
+    "Following": 678
+   },
+   {
+    "Id": 63,
+    "Nama": "Laura Perez",
+    "Email": "laura.perez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/63.jpg",
+    "Followers": 567890,
+    "Following": 789
+   },
+   {
+    "Id": 64,
+    "Nama": "Benjamin Martinez",
+    "Email": "benjamin.martinez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/64.jpg",
+    "Followers": 321098,
+    "Following": 456
+   },
+   {
+    "Id": 65,
+    "Nama": "Anna Moore",
+    "Email": "anna.moore@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/65.jpg",
+    "Followers": 789012,
+    "Following": 210
+   },
+   {
+    "Id": 66,
+    "Nama": "Patrick Thomas",
+    "Email": "patrick.thomas@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/66.jpg",
+    "Followers": 876543,
+    "Following": 123
+   },
+   {
+    "Id": 67,
+    "Nama": "Helen Harris",
+    "Email": "helen.harris@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/67.jpg",
+    "Followers": 109876,
+    "Following": 567
+   },
+   {
+    "Id": 68,
+    "Nama": "Jonathan Anderson",
+    "Email": "jonathan.anderson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/68.jpg",
+    "Followers": 234567,
+    "Following": 876
+   },
+   {
+    "Id": 69,
+    "Nama": "Martha Turner",
+    "Email": "martha.turner@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/69.jpg",
+    "Followers": 432109,
+    "Following": 543
+   },
+   {
+    "Id": 70,
+    "Nama": "Samuel Adams",
+    "Email": "samuel.adams@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/70.jpg",
+    "Followers": 567890,
+    "Following": 890
+   },
+   {
+    "Id": 71,
+    "Nama": "Diane Clark",
+    "Email": "diane.clark@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/71.jpg",
+    "Followers": 890123,
+    "Following": 321
+   },
+   {
+    "Id": 72,
+    "Nama": "Eric Carter",
+    "Email": "eric.carter@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/72.jpg",
+    "Followers": 321098,
+    "Following": 432
+   },
+   {
+    "Id": 73,
+    "Nama": "Maria Robinson",
+    "Email": "maria.robinson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/73.jpg",
+    "Followers": 765432,
+    "Following": 109
+   },
+   {
+    "Id": 74,
+    "Nama": "Douglas Lee",
+    "Email": "douglas.lee@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/74.jpg",
+    "Followers": 345678,
+    "Following": 234
+   },
+   {
+    "Id": 75,
+    "Nama": "Joyce King",
+    "Email": "joyce.king@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/75.jpg",
+    "Followers": 876543,
+    "Following": 987
+   },
+   {
+    "Id": 76,
+    "Nama": "Jesse Gonzalez",
+    "Email": "jesse.gonzalez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/76.jpg",
+    "Followers": 654321,
+    "Following": 345
+   },
+   {
+    "Id": 77,
+    "Nama": "Frances Wright",
+    "Email": "frances.wright@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/77.jpg",
+    "Followers": 987654,
+    "Following": 456
+   },
+   {
+    "Id": 78,
+    "Nama": "Eugene Garcia",
+    "Email": "eugene.garcia@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/78.jpg",
+    "Followers": 234567,
+    "Following": 678
+   },
+   {
+    "Id": 79,
+    "Nama": "Alice Green",
+    "Email": "alice.green@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/79.jpg",
+    "Followers": 567890,
+    "Following": 789
+   },
+   {
+    "Id": 80,
+    "Nama": "Philip Baker",
+    "Email": "philip.baker@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/80.jpg",
+    "Followers": 109876,
+    "Following": 876
+   },
+   {
+    "Id": 81,
+    "Nama": "Julia Walker",
+    "Email": "julia.walker@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/81.jpg",
+    "Followers": 432109,
+    "Following": 321
+   },
+   {
+    "Id": 82,
+    "Nama": "Lawrence Turner",
+    "Email": "lawrence.turner@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/82.jpg",
+    "Followers": 789012,
+    "Following": 567
+   },
+   {
+    "Id": 83,
+    "Nama": "Beverly Scott",
+    "Email": "beverly.scott@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/83.jpg",
+    "Followers": 890123,
+    "Following": 890
+   },
+   {
+    "Id": 84,
+    "Nama": "Roy Lewis",
+    "Email": "roy.lewis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/84.jpg",
+    "Followers": 876543,
+    "Following": 109
+   },
+   {
+    "Id": 85,
+    "Nama": "Janice Harris",
+    "Email": "janice.harris@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/85.jpg",
+    "Followers": 321098,
+    "Following": 234
+   },
+   {
+    "Id": 86,
+    "Nama": "Willie Taylor",
+    "Email": "willie.taylor@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/86.jpg",
+    "Followers": 234567,
+    "Following": 210
+   },
+   {
+    "Id": 87,
+    "Nama": "Heather Davis",
+    "Email": "heather.davis@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/87.jpg",
+    "Followers": 567890,
+    "Following": 432
+   },
+   {
+    "Id": 88,
+    "Nama": "Louis Smith",
+    "Email": "louis.smith@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/88.jpg",
+    "Followers": 987654,
+    "Following": 345
+   },
+   {
+    "Id": 89,
+    "Nama": "Theresa Martinez",
+    "Email": "theresa.martinez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/89.jpg",
+    "Followers": 345678,
+    "Following": 987
+   },
+   {
+    "Id": 90,
+    "Nama": "Randy Thomas",
+    "Email": "randy.thomas@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/90.jpg",
+    "Followers": 765432,
+    "Following": 456
+   },
+   {
+    "Id": 91,
+    "Nama": "Beverly Perez",
+    "Email": "beverly.perez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/91.jpg",
+    "Followers": 432109,
+    "Following": 123
+   },
+   {
+    "Id": 92,
+    "Nama": "Earl Mitchell",
+    "Email": "earl.mitchell@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/92.jpg",
+    "Followers": 789012,
+    "Following": 678
+   },
+   {
+    "Id": 93,
+    "Nama": "Jane Wright",
+    "Email": "jane.wright@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/93.jpg",
+    "Followers": 654321,
+    "Following": 567
+   },
+   {
+    "Id": 94,
+    "Nama": "Nicholas Johnson",
+    "Email": "nicholas.johnson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/94.jpg",
+    "Followers": 890123,
+    "Following": 789
+   },
+   {
+    "Id": 95,
+    "Nama": "Jacqueline Carter",
+    "Email": "jacqueline.carter@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/95.jpg",
+    "Followers": 567890,
+    "Following": 321
+   },
+   {
+    "Id": 96,
+    "Nama": "Harry Anderson",
+    "Email": "harry.anderson@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/96.jpg",
+    "Followers": 234567,
+    "Following": 876
+   },
+   {
+    "Id": 97,
+    "Nama": "Marilyn Hall",
+    "Email": "marilyn.hall@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/97.jpg",
+    "Followers": 876543,
+    "Following": 234
+   },
+   {
+    "Id": 98,
+    "Nama": "Andrew Hernandez",
+    "Email": "andrew.hernandez@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/98.jpg",
+    "Followers": 109876,
+    "Following": 109
+   },
+   {
+    "Id": 99,
+    "Nama": "Martha Adams",
+    "Email": "martha.adams@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/99.jpg",
+    "Followers": 321098,
+    "Following": 543
+   },
+   {
+    "Id": 100,
+    "Nama": "Eugene Martin",
+    "Email": "eugene.martin@example.com",
+    "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/99.jpg",
+    "Followers": 345678,
+    "Following": 210
+   }
+  ]
+  }
